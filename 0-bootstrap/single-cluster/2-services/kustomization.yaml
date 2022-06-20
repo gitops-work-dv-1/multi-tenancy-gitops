@@ -41,7 +41,7 @@ resources:
 #- argocd/instances/ibm-cpd-aespark-instance.yaml
 - argocd/operators/ibm-cpd-dv-operator.yaml
 - argocd/instances/ibm-cpd-dv-instance.yaml
-- argocd/operators/ibm-cpd-db2wh-operator.yaml
+#- argocd/operators/ibm-cpd-db2wh-operator.yaml
 #- argocd/instances/ibm-cpd-db2wh-instance.yaml
 
 ## Cloud Pak for Security
